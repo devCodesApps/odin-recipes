@@ -1,0 +1,38 @@
+
+*{
+    background-color: #274257;
+    color: white;
+}
+#PageList {
+    
+    border: 5px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;  
+    background-color: #8F6048;
+    
+    border-radius: 25px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+}
+
+
+button {
+    font-size: 40px;
+    color: #8F6048;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #DFC184;
+    
+}
+
+
+ol, ul, h2, p {
+    text-align: center;
+    font-size: 30px;
+}
